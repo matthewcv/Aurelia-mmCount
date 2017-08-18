@@ -1,5 +1,5 @@
 {
-  "name": "mmCount",
+  "name": "mmCount1",
   "type": "project:application",
   "bundler": {
     "id": "cli",
@@ -43,7 +43,6 @@
           "aurelia-framework",
           "aurelia-history",
           "aurelia-history-browser",
-          "aurelia-http-client",
           "aurelia-loader",
           "aurelia-loader-default",
           "aurelia-logging",
